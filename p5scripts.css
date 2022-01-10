@@ -2,3 +2,19 @@
     width: 50% !important;
     height: 50% !important;
 } */
+
+.title {
+    color: whitesmoke;
+    font-family: fantasy;
+    font-size:x-large;
+    text-align: center;
+}
+
+.author {
+    color: rgba(245, 245, 245, 0.726);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    text-align: center;
+    visibility: hidden;
+}
+
