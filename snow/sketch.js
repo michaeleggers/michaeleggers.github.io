@@ -20,6 +20,6 @@ function draw() {
       snowflake.x = random(0, width)
     }
     circle(snowflake.x, snowflake.y, snowflake.d)
-
+    
   }
 }

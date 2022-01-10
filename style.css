@@ -1,6 +1,6 @@
 html, body {
-  margin: 0;
-  padding: 0;
+  /* margin: 0;
+  padding: 0; */
   background-color: black;
   display: flex;
   flex-direction: column;
@@ -23,13 +23,27 @@ header {
   font-size: 3em;
   color: rgb(148, 73, 129);
   margin: 1em;
+  margin-top: 2em;
 }
 
 .container {
   margin: auto;
+  text-align: center;
   margin-top: 5em;
+  /* margin-left:10%;
+  margin-right:10%; */
+  width: 90%;
+  /* border: 5px solid #575757; */
 }
 
+.sketches {
+  
+  align-items: center;
+}
+
+.background {
+  position: fixed;
+}
 
 
 
