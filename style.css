@@ -15,15 +15,14 @@ html, body {
   width: 100%;
 } */
 
-.header {
+header {
   text-align: center;
   font-size: 10em;
-  color: rgb(211, 165, 165);
+  color: rgb(148, 73, 129);
 }
 
 .container {
   margin: auto;
-  
 }
 
 
