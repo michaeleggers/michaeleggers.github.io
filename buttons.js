@@ -1,4 +1,4 @@
-let button = document.getElementById("button")
+let button = document.getElementById("starfield")
 
 button.addEventListener("mouseenter", (event) => {
     console.log("starfield")
