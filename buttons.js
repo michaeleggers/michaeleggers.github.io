@@ -1,7 +1,7 @@
 let button = document.getElementById("starfield")
 
 button.addEventListener("mouseenter", (event) => {
-    console.log("starfield")
+    console.log("mouse over element")
 })
 
 button.addEventListener("mousedown", (event) => {
