@@ -1,4 +1,4 @@
-html, body {
+body {
   /* margin: 0;
   padding: 0; */
   background-color: black;
@@ -26,17 +26,27 @@ header {
 
 header ul {
   list-style-type: none;
+  display: inline;
 }
 
-header ul .logo {
-  margin-right: 50%;
+header ul .hm-logo {
+  /* margin-right: 50%;
   margin-left: 0%;
   margin-top: 0%;
   margin-bottom: 0%;
-  padding-left: 0%;
+  padding-left: 0%; */
+  display: inline;
+
 }
 
-header ul .title {
+header ul .mucdai-logo {
+  /* margin-right: 0%;
+  margin-top: 0%;
+  margin-bottom: 0%; */
+  display: inline;
+}
+
+.title {
   text-align: center;
   font-size: 3em;
   color: rgb(255, 255, 255);
@@ -64,6 +74,3 @@ header ul .title {
 .background {
   position: fixed;
 }
-
-
-
