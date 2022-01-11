@@ -19,11 +19,31 @@ html, body {
 } */
 
 header {
+  /* text-align: center top; */
+  /* margin: 1em; */
+  margin-top: 2em;
+}
+
+header ul {
+  list-style-type: none;
+}
+
+header ul .logo {
+  margin-right: 50%;
+  margin-left: 0%;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  padding-left: 0%;
+}
+
+header ul .title {
   text-align: center;
   font-size: 3em;
-  color: rgb(148, 73, 129);
-  margin: 1em;
-  margin-top: 2em;
+  color: rgb(255, 255, 255);
+  margin-top: 1em;
+  font-family: 'Poppins';
+  /* margin-left: 50%;
+  margin-right: 50%; */
 }
 
 .container {
