@@ -1,18 +1,3 @@
-[submodule "generative-kunst-team-1"]
-	path = generative-kunst-team-1
-	url = https://github.com/CT-WS2021-Art/generative-kunst-team-1
-[submodule "generative-kunst-team-2"]
-	path = generative-kunst-team-2
-	url = https://github.com/CT-WS2021-Art/generative-kunst-team-2
-[submodule "generative-kunst-team-3"]
-	path = generative-kunst-team-3
-	url = https://github.com/CT-WS2021-Art/generative-kunst-team-3
-[submodule "generative-kunst-team-4"]
-	path = generative-kunst-team-4
-	url = https://github.com/CT-WS2021-Art/generative-kunst-team-4
-[submodule "generative-kunst-team-7"]
-	path = generative-kunst-team-7
-	url = https://github.com/CT-WS2021-Art/generative-kunst-team-7
 [submodule "repos/generative-kunst-team-1"]
 	path = repos/generative-kunst-team-1
 	url = https://github.com/CT-WS2021-Art/generative-kunst-team-1
