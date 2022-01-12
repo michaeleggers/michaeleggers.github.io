@@ -1,0 +1,22 @@
+/* canvas {
+    width: 50% !important;
+    height: 50% !important;
+} */
+
+
+
+.title {
+    color: whitesmoke;
+    font-family: 'Poppins';
+    font-size:x-large;
+    text-align: center;
+}
+
+.author {
+    color: rgba(245, 245, 245, 0.726);
+    font-family: 'Poppins';
+    font-size: large;
+    text-align: center;
+    visibility: visible;
+}
+
